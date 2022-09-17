@@ -1,0 +1,12 @@
+#NotFoundArea {
+    width: 100%;
+    height: calc(100vh - 160px - 120px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background: #EEE; */
+}
+
+#NotFoundMsg {
+    font-size: 45px;
+}

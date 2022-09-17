@@ -1,0 +1,9 @@
+#wrap {
+    margin: 0 auto;
+    padding: 60px;
+    width: 85%;
+    background: #FFF;
+    box-shadow: 0 0 10px #CCCCCC;
+    min-height: calc(100vh - 160px);
+    /* height: 3000px; */
+}

@@ -1,0 +1,17 @@
+.pcFooter {
+    /* position: fixed; */
+    /* position: sticky;
+    bottom: 0; */
+    padding: 0 35px;
+    width: 100%;
+    height: 80px;
+    background: #FFFFFF;
+    box-shadow: 0 0 10px #BBBBBB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Copyright {
+    font-size: 18px;
+}
